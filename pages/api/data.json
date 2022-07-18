@@ -1,0 +1,34 @@
+{
+	"test": 1,
+	"h1_title": "OUR COMMITMENT TO #BECRUELTYFREE",
+	"contentText":"We are calling for an end to all animal testing of cosmetic products globally, and we’re proud to partner with Humane Society International’s #BeCrueltyFree Campaign to advance that vision.",
+	"contentText2":"Our support of #BeCrueltyFree is another step in our long-term commitment to make animal testing obsolete. Our journey began over 40 years ago through ongoing research, investment and partnerships to develop and promote the use of alternatives to animal testing. These efforts have contributed to the greater good, enabling us and others to develop products that have not been tested on animals. Our contributions include:",
+	"image_big": "/images/image_big.jpg",
+	"image_1": "/images/image1.svg",
+	"image_2": "/images/image2.svg",
+	"image_3": "/images/image3.svg",
+	"image1Text":"Investin more than $470 million over 40 years in alternatives to animal testing, our researchers pioneering over 25 non-animal methods, publishing more than 1,000 scientific articles.",
+	"image2Text":"Partnering with leading international animal welfare organizations, academia, and industry coalitions to promote use of non-animal, cruelty-free methods around the world.",
+	"image3Text":"Advocating for public use of non-animal methods and adoption by scientists and policy makers around the world for over 25 years.",
+	"logo": "/images/logo.svg",
+	"gallery":[
+		{
+			"title": "image1",
+			"image": "/images/gallery_image.jpg",
+			"description": "ORGANIC SALES GROWTH"
+		},
+		{
+			"title": "image2",
+			"image": "/images/gallery_image.jpg",
+			"description": "CORE EPS GROWTH"
+		},
+		{
+			"title": "image3",
+			"image": "/images/gallery_image.jpg",
+			"description": "ADJUSTED FREE CASH FLOW PRODUCTIVITY"
+		}
+	]
+}
+
+
+
